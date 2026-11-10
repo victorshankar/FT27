@@ -1,0 +1,6 @@
+@FT27_HostAddress = http://localhost:5190
+
+GET {{FT27_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
